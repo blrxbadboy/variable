@@ -1,17 +1,17 @@
 //ex 1
-var animal="monkey";
-var monkey=animal;
-var x=15;
-var y=10;
-var Name="y3ni?";
-var isTrue=false;
-var isTenEven=10%2===0;
+var animal="monkey"
+var monkey=animal
+var x=15
+var y=10
+var Name="y3ni?"
+var isTrue=false
+var isTenEven=10%2===0
 
 //ex 2
 
 var firstName = "med rayen"
 var lastName = "Bounawara"
-var fullName = firstName + " " + lastName;
+var fullName = firstName + " " + lastName
 
 //ex 3
 var n1=0
