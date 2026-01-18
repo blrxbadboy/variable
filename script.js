@@ -1,6 +1,6 @@
 //ex 1
 var animal="monkey"
-var monkey=animal
+var monkey="animal"
 var x=15
 var y=10
 var Name="y3ni?"
